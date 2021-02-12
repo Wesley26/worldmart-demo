@@ -1,0 +1,73 @@
+{
+	"bg-gray-100": {
+		"--tw-bg-opacity": 1,
+		"backgroundColor": "rgba(243, 244, 246, var(--tw-bg-opacity))"
+	},
+	"bg-blue-200": {
+		"--tw-bg-opacity": 1,
+		"backgroundColor": "rgba(191, 219, 254, var(--tw-bg-opacity))"
+	},
+	"rounded-md": {
+		"borderTopLeftRadius": 6,
+		"borderTopRightRadius": 6,
+		"borderBottomRightRadius": 6,
+		"borderBottomLeftRadius": 6
+	},
+	"rounded-full": {
+		"borderTopLeftRadius": 9999,
+		"borderTopRightRadius": 9999,
+		"borderBottomRightRadius": 9999,
+		"borderBottomLeftRadius": 9999
+	},
+	"items-center": {
+		"alignItems": "center"
+	},
+	"font-semibold": {
+		"fontWeight": "600"
+	},
+	"h-full": {
+		"height": "100%"
+	},
+	"text-lg": {
+		"fontSize": 18,
+		"lineHeight": 28
+	},
+	"p-1": {
+		"paddingTop": 4,
+		"paddingRight": 4,
+		"paddingBottom": 4,
+		"paddingLeft": 4
+	},
+	"py-1": {
+		"paddingTop": 4,
+		"paddingBottom": 4
+	},
+	"px-3": {
+		"paddingLeft": 12,
+		"paddingRight": 12
+	},
+	"pt-12": {
+		"paddingTop": 48
+	},
+	"*": {
+		"--tw-ring-inset": "var(--tw-empty, )",
+		"--tw-ring-offset-width": 0,
+		"--tw-ring-offset-color": "#fff",
+		"--tw-ring-color": "rgba(59, 130, 246, 0.5)",
+		"--tw-ring-offset-shadow": "0 0 #0000",
+		"--tw-ring-shadow": "0 0 #0000"
+	},
+	"text-blue-800": {
+		"--tw-text-opacity": 1,
+		"color": "rgba(30, 64, 175, var(--tw-text-opacity))"
+	},
+	"underline": {
+		"textDecorationLine": "underline"
+	},
+	"line-through": {
+		"textDecorationLine": "line-through"
+	},
+	"no-underline": {
+		"textDecorationLine": "none"
+	}
+}
